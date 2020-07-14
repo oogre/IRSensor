@@ -20,8 +20,8 @@ IRSensor : Outdoor
 
 Arduino : Indoor
 
-![IMG_20200714_181732.jpg](/Users/ogre/works/0202/alecDeBusshere/IRSensor/doc/IMG_20200714_181732.jpg)
+![IMG_20200714_181732.jpg](./doc/IMG_20200714_181732.jpg)
 
-![IMG_20200714_181858.jpg](/Users/ogre/works/0202/alecDeBusshere/IRSensor/doc/IMG_20200714_181858.jpg)
+![IMG_20200714_181858.jpg](./doc/IMG_20200714_181858.jpg)
 
-![IMG_20200714_182026.jpg](/Users/ogre/works/0202/alecDeBusshere/IRSensor/doc/IMG_20200714_182026.jpg)
+![IMG_20200714_182026.jpg](./doc/IMG_20200714_182026.jpg)
