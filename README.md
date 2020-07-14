@@ -25,3 +25,7 @@ Arduino : Indoor
 ![IMG_20200714_181858.jpg](./doc/IMG_20200714_181858.jpg)
 
 ![IMG_20200714_182026.jpg](./doc/IMG_20200714_182026.jpg)
+
+### User Interface
+
+![UI.gif](./doc/UI.gif)

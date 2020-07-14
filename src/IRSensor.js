@@ -2,7 +2,7 @@
   IRSensor - IRSensor.js
   @author Evrard Vincent (vincent@ogre.be)
   @Date:   2020-07-14 12:16:11
-  @Last Modified time: 2020-07-14 18:12:29
+  @Last Modified time: 2020-07-14 18:52:44
 \*----------------------------------------*/
 
 // Dependency : 
