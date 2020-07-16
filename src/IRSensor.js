@@ -2,7 +2,7 @@
   IRSensor - IRSensor.js
   @author Evrard Vincent (vincent@ogre.be)
   @Date:   2020-07-14 12:16:11
-  @Last Modified time: 2020-07-16 15:04:42
+  @Last Modified time: 2020-07-16 15:25:56
 \*----------------------------------------*/
 
 // Dependency : 
@@ -13,7 +13,7 @@
 
 const DEBUG = false;
 //const currentPage = 'app';
-const ARDUINO_NAME = "/dev/usbmodem14201"
+const ARDUINO_NAME = "/dev/tty.usbmodem14201"
 const serial = new p5.SerialPort();
 var ptfsUserDetected = false;
 
